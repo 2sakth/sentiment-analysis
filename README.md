@@ -1,1 +1,2 @@
-# sentiment-analysis
+Sentiment Analysis for ChatGPT
+This project is a Sentiment Analysis App that evaluates the sentiment of user-provided text. It is built using a Flask backend with TextBlob NLP for sentiment analysis and a React frontend for a user-friendly interface. The app allows users to enter text, analyze its sentiment (Positive, Negative, or Neutral), and view the sentiment score. The backend processes the input and returns results in real-time using a REST API. This can be integrated with ChatGPT to assess the sentiment of chatbot interactions and improve conversational experiences.
